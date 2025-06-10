@@ -3,9 +3,9 @@
 
 
 ## Overview
-This project utilizes the MediaPipe library to create a real-time posture monitoring system using a webcam or video. The application assesses the alignment of the shoulders and the inclination of the neck and torso to determine whether the user is maintaining a good or bad posture. Additionally, it calculates the time spent in each posture and alerts the user if they remain in a bad posture for an extended period 🕒⚠️. 
+This project utilizes the MediaPipe library to create a real-time posture monitoring system using a webcam or video. The application assesses the alignment of the shoulders and the inclination of the neck and torso to determine whether the user is maintaining a good or bad posture. Additionally, it calculates the time spent in each posture and alerts the user if they remain in a bad posture for an extended period. 
 
-This code was created with the help of the article [**Building a Poor Body Posture Detection & Alert System Using MediaPipe Body Tracking**](https://learnopencv.com/building-a-body-posture-analysis-system-using-mediapipe/).
+Reference [**Building a Poor Body Posture Detection & Alert System Using MediaPipe Body Tracking**](https://learnopencv.com/building-a-body-posture-analysis-system-using-mediapipe/).
 
 
 ## Requirements
