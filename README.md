@@ -49,7 +49,7 @@ python application.py --video 'path/to/your/video.mp4' --offset-threshold 100 --
 ```
 * Optionally, you can omit --video to use the default webcam.
 
-6. Adjust your webcam to capture your posture, and the application will display real-time feedback on your posture status, inclination angles, and time spent in each posture. 📹👀
+6. Adjust your webcam to capture your posture, and the application will display real-time feedback on your posture status, inclination angles, and time spent in each posture.
 
 ## Features
 * Real-time posture monitoring using the webcam.
@@ -62,11 +62,11 @@ python application.py --video 'path/to/your/video.mp4' --offset-threshold 100 --
 You can adjust the following parameters in the posture_monitor.py script:
 
 * **Video** (`--video`): Path of video file.
-* **Offset Threshold** (`--offset-threshold`): Threshold value for shoulder alignment. 📏
-* **Angle Thresholds** (`--neck-angle-threshold`, `--torso-angle-threshold`): Threshold values for neck and torso inclination angles. 📐
-* **Time Threshold** (`--time-threshold`): Time threshold for triggering a posture alert. 🕒
+* **Offset Threshold** (`--offset-threshold`): Threshold value for shoulder alignment. 
+* **Angle Thresholds** (`--neck-angle-threshold`, `--torso-angle-threshold`): Threshold values for neck and torso inclination angles. 
+* **Time Threshold** (`--time-threshold`): Time threshold for triggering a posture alert. 
 
 ## Acknowledgments
-This project utilizes the [MediaPipe](https://mediapipe.dev/) library for pose estimation. 👏
+This project utilizes the [MediaPipe](https://mediapipe.dev/) library for pose estimation. 
 
 
